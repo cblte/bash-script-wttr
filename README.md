@@ -2,7 +2,7 @@
 
 A Bash script to check weather condition via terminal created by Carsten Brueggenolte.
 
-Current Version: **1.54_2021-09-03**
+Current Version: **v1.55**
 
 ![wttr](terminal-wttr.png)
 
